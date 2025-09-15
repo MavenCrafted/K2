@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>io.github.mavencrafted</groupId>
+    <artifactId>k2</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0.0</version>
+    <url>https://github.com/MavenCrafted/k2</url>
+    <name>K2</name>
+    <description>A fluent, type-safe validation library for Java service layers, enabling expressive validation rules via method references.</description>
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>https://github.com/MavenCrafted/k2/blob/main/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <scm>
+        <connection>scm:git:git://github.com/MavenCrafted/k2.git</connection>
+        <url>https://github.com/MavenCrafted/k2</url>
+    </scm>
+    <issueManagement>
+        <system>GitHub Issues</system>
+        <url>https://github.com/MavenCrafted/k2/issues</url>
+    </issueManagement>
+</project>
